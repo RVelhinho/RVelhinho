@@ -6,4 +6,4 @@
 
 ---
 
-💼 Let's connect on [LinkedIn](/in/ricardo-velhinho)
+💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/ricardo-velhinho/)
