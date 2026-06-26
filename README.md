@@ -1,6 +1,6 @@
 # Hi! I'm Ricardo 👋
 
-🇵🇹 I'm a full-stack engineer based in Portugal <br>
+🇵🇹 I'm a software engineer based in Portugal <br>
 ❤️ Developing open-source platforms and learning with people smarter than me <br>
 ✍️ Sharing ideas and projects at [rvelhinho.dev](https://rvelhinho.dev)
 
